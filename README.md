@@ -1,1 +1,1 @@
-# Medical-Image-Processing
+# Medical Image Processing for Diagnostic Applications
